@@ -1,0 +1,41 @@
+{
+    "bSucc": true,
+    "strCode": "0000",
+    "strMsg": null,
+    "DataTime": "2024-12-24T16:48:22.8010946+08:00",
+    "Content": {
+        "WIPDataList": null,
+        "RecipeList": [
+            {
+                "SubEqpID": "H4-CTYH-002",
+                "RecipeName": "52#",
+                "RecipeRevison": null,
+                "CAMFile": null,
+                "RecipeName255": "",
+                "ParamName": null,
+                "MinDataValue": null,
+                "MaxDataValue": null,
+                "ValidValue": null
+            }
+        ],
+        "MaterialsList": [
+            {
+                "MaterialPart": "",
+                "ReferenceDesignator": ""
+            }
+        ],
+        "LotID": "0108030353",
+        "SpecName": "H-外层热压合1",
+        "PN": "R0AP0357A0A",
+        "ProductRev": "000B",
+        "PanelTotalQty": 120,
+        "StripQty": 240,
+        "PcsQty": 240,
+        "LDILayer1": null,
+        "LDILayer2": null,
+        "PartNumber1": null,
+        "PartNumber2": null,
+        "JobName1": null,
+        "JobName2": null
+    }
+}
